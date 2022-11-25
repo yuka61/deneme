@@ -154,7 +154,7 @@ void GcodeSuite::M600() {
         parser.celsiusval('R')
         DXC_PASS
       );
-    }//6321+68954694641685
+    }
     else {
       #if ENABLED(MMU2_MENUS)
         mmu2_M600();
