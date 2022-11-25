@@ -1,5 +1,5 @@
 /**
- * Marlin 3D Printer Firmware---------------------------Neckog kart yazılımı 01.10.22 g34-35-28 hız vs ayarları yapıldı(13.10.22)
+ * Marlin 3D Printer Firmware---------------------------Neckog kart yazılımı 01.10.22 g34-35-28 hız vs ayarları yapıldı(13.10.22) lalalala
  * Copyright (c) 2020 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
  * Based on Sprinter and grbl.
