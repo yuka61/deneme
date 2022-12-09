@@ -1,5 +1,5 @@
 /**
- * Marlin 3D Printer Firmware---------------------------Neckog kart yazılımı 01.10.22 g34-35-28 hız vs ayarları yapıldı(13.10.22) 
+ * Marlin 3D Printer Firmware---------------------------Neckog kart yazılımı 01.10.22 g34-35-28 hız vs ayarları yapıldı(13.10.22)
  * Copyright (c) 2020 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
  * Based on Sprinter and grbl.
@@ -2916,7 +2916,7 @@
 #define NEOPIXEL_LED
 #if ENABLED(NEOPIXEL_LED)
   #define NEOPIXEL_TYPE   NEO_GRB // NEO_GRBW / NEO_GRB - four/three channel driver type (defined in Adafruit_NeoPixel.h)
-  #define NEOPIXEL_PIN     PD13    // LED driving pin
+  #define NEOPIXEL_PIN     PD1    // LED driving pin
   #define NEOPIXEL2_TYPE NEOPIXEL_TYPE
   //#define NEOPIXEL2_PIN    PE15
   #define NEOPIXEL_PIXELS 23       // Number of LEDs in the strip. (Longest strip when NEOPIXEL2_SEPARATE is disabled.)
